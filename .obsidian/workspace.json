@@ -1,0 +1,378 @@
+{
+  "main": {
+    "id": "66ace8cdd61850a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "970df22a887e3eff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c428542a83160cc8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "4170ae2f35bed26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDEAS"
+            }
+          },
+          {
+            "id": "b174955ce8e81fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Tech + Sciences/Black Hole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Hole"
+            }
+          },
+          {
+            "id": "309f967f6a4d176f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Tech + Sciences/Alien Device.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alien Device"
+            }
+          },
+          {
+            "id": "b042501b44e4bc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Tech + Sciences/Black Hole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Hole"
+            }
+          },
+          {
+            "id": "6c79702c41e89871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Characters/Crew/Erik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erik"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "c771ea1761f1d0b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8338b102a91d856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "160f2ca6dfdef352",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9e68ff3ede566d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO-DO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TO-DO"
+            }
+          },
+          {
+            "id": "c52aca73ec5c1e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Story/04a - Mission/Main mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main mission"
+            }
+          },
+          {
+            "id": "501a12aeb9a87383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Story/04a - Mission/Main mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main mission"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db4395910cfc8f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ba3b883e93cf12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4f255625121fce5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d0d2fb2e45b6c942",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e79715e2f2c881fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f67444b7e844dd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "25fd833588692422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a40a14563e21888",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "0d160865e160e425",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "25c5c9a44163b9c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 - Story/04a - Mission/Main mission.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7f058023c2adc587",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78e6c62bc90e9fc9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa66a0fb9c1a594c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 586.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "aa66a0fb9c1a594c",
+  "lastOpenFiles": [
+    "03 - Tech + Sciences/Supernova.md",
+    "03 - Tech + Sciences/Alien Device.md",
+    "03 - Tech + Sciences/Loop.md",
+    "03 - Tech + Sciences/Black Hole.md",
+    "02 - World/Star System.md",
+    "04 - Story/04a - Mission/Main mission.md",
+    "TO-DO.md",
+    "01 - Characters/Crew/Erik.md",
+    "01 - Characters/Crew/Crew.md",
+    "01 - Characters/Crew/Winston Garrett.md",
+    "01 - Characters/Crew/Edison Acker.md",
+    "2026-08-08.md",
+    "01 - Characters/Crew/Untitled.base",
+    "01 - Characters/General characters.md",
+    "Untitled.md",
+    "IDEAS.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "04 - Story/04a - Mission",
+    "04 - Story",
+    "03 - Tech + Sciences",
+    "02 - World",
+    "00 - Overview",
+    "01 - Characters",
+    "Welcome.md"
+  ]
+}

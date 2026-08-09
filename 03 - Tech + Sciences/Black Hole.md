@@ -1,0 +1,1 @@
+The black hole is a thing that partially causes the [[Loop]] in this story

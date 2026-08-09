@@ -1,0 +1,1 @@
+Our protagonist's crew's mission is to mainly research and explore the small [[star system]] that they live in.
