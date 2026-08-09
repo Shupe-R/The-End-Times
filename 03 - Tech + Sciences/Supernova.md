@@ -1,2 +1,2 @@
-The supernova is an event in the book that—unlike realife where it actualy would first explode—converts the star into a blackhole. Though this is getting kinda -eh in the science area, the genre is sci-fi, as in science-
+The supernova is an event in the book that—unlike realife where it actualy would first explode—converts the star into a [[blackhole]]. Though this is getting kinda -eh in the science area, the genre is sci-fi, as in science-
 fiction
