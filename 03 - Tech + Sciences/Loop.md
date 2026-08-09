@@ -1,0 +1,1 @@
+The loop is the main problem that the [[Crew]] needs to solve to finish the story. The loop is caused by spacetime breaking because of the [[Black Hole]] 
