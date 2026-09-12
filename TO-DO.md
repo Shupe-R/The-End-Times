@@ -1,7 +1,7 @@
 # Crew
 
-- [ ] Name 5th crew member🔺 
-- [ ] Flesh out crew ⏫ 
+- [ ] Flesh out crew ⏫
+- [ ] Name the crew🔺  
 - [ ] finish crew roles🔺 
 - [ ] Choose main character🔼 
 - [ ] Decide how the story is told🔼

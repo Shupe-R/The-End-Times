@@ -1,5 +1,5 @@
 this is just to keep the web nice
-[[Edison Acker]]
-[[Winston Garrett]]
+[[Engineer]]
+[[Captain]]
 [[]]
-[[Erik]]
+[[pilot]]
